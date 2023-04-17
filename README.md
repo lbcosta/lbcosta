@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZlYWU2NzI2NWE4NGZiZWJmNzVkZTJkYTZhMTg0NTE5MzllYTRhYSZjdD1z/m7GCmngo33rsmjxoPM/giphy.gif" width="50">
+  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="50">
    Ahoy, fellow coder! I'm Leo!
 </h2>
 
